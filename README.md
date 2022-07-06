@@ -1,11 +1,18 @@
 # Project Mobilité verte 
 
+This is a study project for the writing of a thesis
+for the preparation of my CDA (application developer designer) diploma
+It includes all the main points I need to address during my year.
+It is not intended to be marketed or put into production permanently. . 
+
 ## Start Project with docker
 
 ```bash
 docker-compose up 
- #Or if you start only contanier `server node` , `back office` and `client`
-docker-compose up >`server node` , `back office` and `client`
+
+ #if you start only contanier `server node` , `back office` and `client`
+
+docker-compose up >`server node` , `back office` Or `client`
 
 ```
 
@@ -34,7 +41,7 @@ docker-compose up >`server node` , `back office` and `client`
 |        task                             |        assigned       |        status         |
 |:---------------------------------------:|:---------------------:|:---------------------:|
 | creat auht middleware                   |  @mathieusantiago21   |        &#9745;        |
-|:---------------------------------------:|:---------------------:|:---------------------:|                   
+|                                         |                       |                       |                   
 | creat article controller                |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie controller              |  @mathieusantiago21   |        &#9745;        |
 | creat gallery controller                |  @mathieusantiago21   |        &#9745;        |
