@@ -10,9 +10,17 @@ docker-compose up
 #### Todo list back office
 :warning:
 **IMPORTANT** - *WORK IN PROGRESS*
-|        task          |        status         |
-|:--------------------:|:---------------------:|
-| Creat login page     |        &#9745;        |
+|        task                             |        assigned       |        status         |
+|:---------------------------------------:|:---------------------:|:---------------------:|
+| Creat login page                        |  @mathieusantiago21   |        &#9745;        |
+| Creat dashBoard page                    |  @mathieusantiago21   |        &#9745;        |
+| Creat article page                      |  @mathieusantiago21   |        &#9745;        |
+| Creat category page                     |  @mathieusantiago21   |        &#9745;        |
+| Creat gallery page                      |  @mathieusantiago21   |        &#9745;        |
+| Creat cropper page                      |  @mathieusantiago21   |        &#9745;        |
+| Creat logout page                       |  @mathieusantiago21   |        &#9745;        |
+| add gallery when creating an article    |  @mathieusantiago21   |        &#9745;        |
+| add cropper when creating an article    |  @mathieusantiago21   |        &#9745;        |
 
 - [x] Creat login page :outbox_tray: 
 - [x] Creat dashBoard page :outbox_tray: 
