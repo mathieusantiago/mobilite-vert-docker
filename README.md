@@ -5,4 +5,4 @@
 ```
 docker-compose up 
 ```
-- [ ] test :tada:
+- [x] test :tada:
