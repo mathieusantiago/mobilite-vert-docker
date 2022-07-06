@@ -10,9 +10,9 @@ docker-compose up
 #### Todo list back office
 :warning:
 **IMPORTANT** - *WORK IN PROGRESS*
-|        task          |       [ ] status      |
+|        task          |        status         |
 |:--------------------:|:---------------------:|
-| Creat login page     |       [ ] row         |
+| Creat login page     |       [x] row         |
 
 - [x] Creat login page :outbox_tray: 
 - [x] Creat dashBoard page :outbox_tray: 
