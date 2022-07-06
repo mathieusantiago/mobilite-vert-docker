@@ -32,7 +32,6 @@ docker-compose up >`server node` , `back office` Or `client`
 | Creat cropper page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat logout page                       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |
-|                                         |                       |                       |
 | add gallery when creating an article    |  @mathieusantiago21   |        &#9744;        |
 | add cropper when creating an article    |  @mathieusantiago21   |        &#9744;        |
 
@@ -49,18 +48,18 @@ docker-compose up >`server node` , `back office` Or `client`
 | creat gallery controller                |  @mathieusantiago21   |        &#9745;        |
 | creat subCategorie controller           |  @mathieusantiago21   |        &#9745;        |
 | creat user controller                   |  @mathieusantiago21   |        &#9745;        |
-|:---------------------------------------:|:---------------------:|:---------------------:|                   
+|                                         |                       |                       |                   
 | creat article models                    |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie models                  |  @mathieusantiago21   |        &#9745;        |
 | creat gallery models                    |  @mathieusantiago21   |        &#9745;        |
 | creat user models                       |  @mathieusantiago21   |        &#9745;        |
-|:---------------------------------------:|:---------------------:|:---------------------:|                   
+|                                         |                       |                       |                   
 | creat user route                        |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie route                   |  @mathieusantiago21   |        &#9745;        |
 | creat gallery route                     |  @mathieusantiago21   |        &#9745;        |
 | creat subCategorie route                |  @mathieusantiago21   |        &#9745;        |
 | creat article route                     |  @mathieusantiago21   |        &#9745;        |
-|:---------------------------------------:|:---------------------:|:---------------------:|  
+|                                         |                       |                       |  
 | creat errors utils                      |  @mathieusantiago21   |        &#9745;        |
 
 ### List of tasks on the Client Web page.
@@ -70,5 +69,5 @@ docker-compose up >`server node` , `back office` Or `client`
 |        task                             |        assigned       |        status         |
 |:---------------------------------------:|:---------------------:|:---------------------:|
 | Start project font-end client           |  @mathieusantiago21   |        &#9744;        |
-|:---------------------------------------:|:---------------------:|:---------------------:|                   
+|                                         |                       |                       |                   
 
