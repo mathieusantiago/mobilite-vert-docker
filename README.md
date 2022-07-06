@@ -17,7 +17,7 @@ docker-compose up >`server node` , `back office` Or `client`
 ```
 
 >Same operation for starting `server node` , `back office` and `client`
-### List of tasks on the back office Web page.
+### List of tasks on the back office Web page.  
 
 :warning:
 **IMPORTANT** - *WORK IN PROGRESS*
@@ -34,6 +34,7 @@ docker-compose up >`server node` , `back office` Or `client`
 |                                         |                       |                       |
 | add gallery when creating an article    |  @mathieusantiago21   |        &#9744;        |
 | add cropper when creating an article    |  @mathieusantiago21   |        &#9744;        |
+| add update article                      |  @mathieusantiago21   |        &#9744;        |
 
 ### List of tasks on the Server backend Web page.
 :warning:
