@@ -5,4 +5,5 @@
 ```
 docker-compose up 
 ```
-- [x] test :tada:
+- [ ] add gallery when creating an article :outbox_tray: 
+- [ ] add cropper gallery when creating an article :outbox_tray: 
