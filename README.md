@@ -19,8 +19,8 @@ docker-compose up
 | Creat gallery page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat cropper page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat logout page                       |  @mathieusantiago21   |        &#9745;        |
-| add gallery when creating an article    |  @mathieusantiago21   |        &#9745;        |
-| add cropper when creating an article    |  @mathieusantiago21   |        &#9745;        |
+| add gallery when creating an article    |  @mathieusantiago21   |        &#9744;        |
+| add cropper when creating an article    |  @mathieusantiago21   |        &#9744;        |
 
 - [x] Creat login page :outbox_tray: 
 - [x] Creat dashBoard page :outbox_tray: 
