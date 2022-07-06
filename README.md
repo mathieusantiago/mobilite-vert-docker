@@ -1,15 +1,20 @@
-## Project Mobilité verte 
+# Project Mobilité verte 
 
-### Run Project with docker
-
->Same operation for starting `server node` , `back office` and `client`
+## Start Project with docker
 
 ```bash
 docker-compose up 
+ #Or if you start only contanier `server node` , `back office` and `client`
+docker-compose up >`server node` , `back office` and `client`
+
 ```
-#### Todo list back office
+
+>Same operation for starting `server node` , `back office` and `client`
+### List of tasks on the back office Web page.
+
 :warning:
 **IMPORTANT** - *WORK IN PROGRESS*
+
 |        task                             |        assigned       |        status         |
 |:---------------------------------------:|:---------------------:|:---------------------:|
 | Creat login page                        |  @mathieusantiago21   |        &#9745;        |
@@ -22,44 +27,39 @@ docker-compose up
 | add gallery when creating an article    |  @mathieusantiago21   |        &#9744;        |
 | add cropper when creating an article    |  @mathieusantiago21   |        &#9744;        |
 
-- [x] Creat login page :outbox_tray: 
-- [x] Creat dashBoard page :outbox_tray: 
-- [x] Creat article page :outbox_tray: 
-- [x] Creat category page :outbox_tray: 
-- [x] Creat gallery page :outbox_tray: 
-- [x] Creat cropper compnent :outbox_tray: 
-- [x] Creat logout compnent :outbox_tray: 
-- [ ] add gallery when creating an article :outbox_tray: 
-- [ ] add cropper gallery when creating an article :outbox_tray: 
-
-#### Todo list Server backend
+### List of tasks on the Server backend Web page.
 :warning:
 **IMPORTANT** - *WORK IN PROGRESS*,
 
-- [x] creat auht middleware :outbox_tray: 
+|        task                             |        assigned       |        status         |
+|:---------------------------------------:|:---------------------:|:---------------------:|
+| creat auht middleware                   |  @mathieusantiago21   |        &#9745;        |
+|:---------------------------------------:|:---------------------:|:---------------------:|                   
+| creat article controller                |  @mathieusantiago21   |        &#9745;        |
+| creat cetegorie controller              |  @mathieusantiago21   |        &#9745;        |
+| creat gallery controller                |  @mathieusantiago21   |        &#9745;        |
+| creat subCategorie controller           |  @mathieusantiago21   |        &#9745;        |
+| creat user controller                   |  @mathieusantiago21   |        &#9745;        |
+|:---------------------------------------:|:---------------------:|:---------------------:|                   
+| creat article models                    |  @mathieusantiago21   |        &#9745;        |
+| creat cetegorie models                  |  @mathieusantiago21   |        &#9745;        |
+| creat gallery models                    |  @mathieusantiago21   |        &#9745;        |
+| creat user models                       |  @mathieusantiago21   |        &#9745;        |
+|:---------------------------------------:|:---------------------:|:---------------------:|                   
+| creat user route                        |  @mathieusantiago21   |        &#9745;        |
+| creat cetegorie route                   |  @mathieusantiago21   |        &#9745;        |
+| creat gallery route                     |  @mathieusantiago21   |        &#9745;        |
+| creat subCategorie route                |  @mathieusantiago21   |        &#9745;        |
+| creat article route                     |  @mathieusantiago21   |        &#9745;        |
+|:---------------------------------------:|:---------------------:|:---------------------:|  
+| creat errors utils                      |  @mathieusantiago21   |        &#9745;        |
 
-- [x] creat auht controller :outbox_tray: 
-- [x] creat article controller :outbox_tray: 
-- [x] creat cetegorie controller :outbox_tray: 
-- [x] creat gallery controller :outbox_tray: 
-- [x] creat subCategorie controller :outbox_tray: 
-- [x] creat user controller :outbox_tray: 
-
-- [x] creat article models :outbox_tray: 
-- [x] creat cetegorie models :outbox_tray: 
-- [x] creat gallery models :outbox_tray: 
-- [x] creat user models :outbox_tray: 
-
-- [x] creat user route :outbox_tray: 
-- [x] creat cetegorie route :outbox_tray: 
-- [x] creat gallery route :outbox_tray: 
-- [x] creat subCategorie route :outbox_tray: 
-- [x] creat article route :outbox_tray: 
-
-- [x] creat errors utils :outbox_tray: 
-
-#### Todo list Client
+### List of tasks on the Client Web page.
 :warning:
 **IMPORTANT** - *WORK IN PROGRESS*,
 
-- [ ] Start project font-end client :outbox_tray: 
+|        task                             |        assigned       |        status         |
+|:---------------------------------------:|:---------------------:|:---------------------:|
+| Start project font-end client           |  @mathieusantiago21   |        &#9744;        |
+|:---------------------------------------:|:---------------------:|:---------------------:|                   
+
