@@ -12,7 +12,7 @@ docker-compose up
 **IMPORTANT** - *WORK IN PROGRESS*
 |        task          |        status         |
 |:--------------------:|:---------------------:|
-| Creat login page     |       [x] row         |
+| Creat login page     |        &#9745;        |
 
 - [x] Creat login page :outbox_tray: 
 - [x] Creat dashBoard page :outbox_tray: 
