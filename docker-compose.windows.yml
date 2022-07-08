@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  backoffice:
+    build: ./backOffice
+    ports:
+      - 3000:3000
+    volumes:
+      - C:/Desktop/projetAfpa/mobilite-vert-docker/backOffice/src:/app/src
+  servernode:
+    build: ./serverNode
+    ports:
+      - 5000:5000
+    volumes:
+      - C:/Desktop/projetAfpa/mobilite-vert-docker/serverNode:/app
