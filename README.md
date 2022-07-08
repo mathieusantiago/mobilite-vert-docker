@@ -32,7 +32,7 @@ docker-compose up >`server node` , `back office` Or `client`
 | Creat cropper page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat logout page                       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |
-| add gallery when creating an article    |  @mathieusantiago21   |        &#9744;        |
+| add gallery when creating an article    |  @mathieusantiago21   |        &#9745;        |
 | add cropper when creating an article    |  @mathieusantiago21   |        &#9744;        |
 | add update article                      |  @mathieusantiago21   |        &#9744;        |
 
