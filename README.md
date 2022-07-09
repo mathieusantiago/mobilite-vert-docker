@@ -31,10 +31,11 @@ docker-compose up >`server node` , `back office` Or `client`
 | Creat gallery page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat cropper page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat logout page                       |  @mathieusantiago21   |        &#9745;        |
+| Creat gallery when creating an article  |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |
-| add gallery when creating an article    |  @mathieusantiago21   |        &#9745;        |
-| add cropper when creating an article    |  @mathieusantiago21   |        &#9744;        |
-| add update article                      |  @mathieusantiago21   |        &#9744;        |
+| Creat cropper when creating an article  |  @mathieusantiago21   |        &#9744;        |
+| Creat update article                    |  @mathieusantiago21   |        &#9744;        |
+| Creat pagination for list article       |  @mathieusantiago21   |        &#9744;        |
 
 ### List of tasks on the Server backend Web page.
 :warning:
@@ -62,6 +63,7 @@ docker-compose up >`server node` , `back office` Or `client`
 | creat article route                     |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |  
 | creat errors utils                      |  @mathieusantiago21   |        &#9745;        |
+| creat README                            |  @mathieusantiago21   |        &#9744;        |
 
 ### List of tasks on the Client Web page.
 :warning:
@@ -72,3 +74,14 @@ docker-compose up >`server node` , `back office` Or `client`
 | Start project font-end client           |  @mathieusantiago21   |        &#9744;        |
 |                                         |                       |                       |                   
 
+### List of tasks on the Docker container.
+:warning:
+**IMPORTANT** - *WORK IN PROGRESS*,
+
+|        task                              |        assigned       |        status         |
+|:----------------------------------------:|:---------------------:|:---------------------:|
+| Create container docker serverNode       |  @mathieusantiago21   |        &#9744;        |
+| Create container docker backOffice       |  @mathieusantiago21   |        &#9744;        |
+| Create container docker client           |  @mathieusantiago21   |        &#9744;        |
+| Create script bash for auto install stack|  @mathieusantiago21   |        &#9744;        |
+|                                          |                       |                       |                   
