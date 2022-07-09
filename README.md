@@ -80,8 +80,8 @@ docker-compose up >`server node` , `back office` Or `client`
 
 |        task                              |        assigned       |        status         |
 |:----------------------------------------:|:---------------------:|:---------------------:|
-| Create container docker serverNode       |  @mathieusantiago21   |        &#9744;        |
-| Create container docker backOffice       |  @mathieusantiago21   |        &#9744;        |
-| Create container docker client           |  @mathieusantiago21   |        &#9744;        |
+| Create container docker serverNode       |  @mathieusantiago21   |        &#9745;        |
+| Create container docker backOffice       |  @mathieusantiago21   |        &#9745;        |
+| Create container docker client           |  @mathieusantiago21   |        &#9745;        |
 | Create script bash for auto install stack|  @mathieusantiago21   |        &#9744;        |
 |                                          |                       |                       |                   
