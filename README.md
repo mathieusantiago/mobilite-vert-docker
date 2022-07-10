@@ -32,17 +32,17 @@ docker-compose up >`server node` , `back office` Or `client`
 | Creat cropper page                      |  @mathieusantiago21   |        &#9745;        |
 | Creat logout page                       |  @mathieusantiago21   |        &#9745;        |
 | Creat gallery when creating an article  |  @mathieusantiago21   |        &#9745;        |
+| Creat pagination for list article       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |
 | Creat cropper when creating an article  |  @mathieusantiago21   |        &#9744;        |
 | Creat update article                    |  @mathieusantiago21   |        &#9744;        |
 | Creat update data picture gallery       |  @mathieusantiago21   |        &#9744;        |
-| Creat pagination for list article       |  @mathieusantiago21   |        &#9744;        |
 | Creat modal prevu article               |  @mathieusantiago21   |        &#9744;        |
 | Creat tags page                         |  @mathieusantiago21   |        &#9744;        |
 | Creat lexiquege                         |  @mathieusantiago21   |        &#9744;        |
 | Creat feature for select order Category |  @mathieusantiago21   |        &#9744;        |
 | Creat Manage use                        |  @mathieusantiago21   |        &#9744;        |
-| Creat manage role                       |  @mathieusantiago21   |        &#9744;        |
+| Creat Manage role                       |  @mathieusantiago21   |        &#9744;        |
 
 ### List of tasks on the Server backend Web page.
 :warning:
