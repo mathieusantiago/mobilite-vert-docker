@@ -35,7 +35,14 @@ docker-compose up >`server node` , `back office` Or `client`
 |                                         |                       |                       |
 | Creat cropper when creating an article  |  @mathieusantiago21   |        &#9744;        |
 | Creat update article                    |  @mathieusantiago21   |        &#9744;        |
+| Creat update data picture gallery       |  @mathieusantiago21   |        &#9744;        |
 | Creat pagination for list article       |  @mathieusantiago21   |        &#9744;        |
+| Creat modal prevu article               |  @mathieusantiago21   |        &#9744;        |
+| Creat tags page                         |  @mathieusantiago21   |        &#9744;        |
+| Creat lexiquege                         |  @mathieusantiago21   |        &#9744;        |
+| Creat feature for select order Category |  @mathieusantiago21   |        &#9744;        |
+| Creat Manage use                        |  @mathieusantiago21   |        &#9744;        |
+| Creat manage role                       |  @mathieusantiago21   |        &#9744;        |
 
 ### List of tasks on the Server backend Web page.
 :warning:
@@ -50,17 +57,29 @@ docker-compose up >`server node` , `back office` Or `client`
 | creat gallery controller                |  @mathieusantiago21   |        &#9745;        |
 | creat subCategorie controller           |  @mathieusantiago21   |        &#9745;        |
 | creat user controller                   |  @mathieusantiago21   |        &#9745;        |
+| creat tags controller                   |  @mathieusantiago21   |        &#9744;        |
+| creat lexique controller                |  @mathieusantiago21   |        &#9744;        |
+| creat manage user                       |  @mathieusantiago21   |        &#9744;        |
+| creat manage role                       |  @mathieusantiago21   |        &#9744;        |
 |                                         |                       |                       |                   
 | creat article models                    |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie models                  |  @mathieusantiago21   |        &#9745;        |
 | creat gallery models                    |  @mathieusantiago21   |        &#9745;        |
 | creat user models                       |  @mathieusantiago21   |        &#9745;        |
+| creat tags models                       |  @mathieusantiago21   |        &#9744;        |
+| creat lexique models                    |  @mathieusantiago21   |        &#9744;        |
+| creat manage user                       |  @mathieusantiago21   |        &#9744;        |
+| creat manage role                       |  @mathieusantiago21   |        &#9744;        |
 |                                         |                       |                       |                   
 | creat user route                        |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie route                   |  @mathieusantiago21   |        &#9745;        |
 | creat gallery route                     |  @mathieusantiago21   |        &#9745;        |
 | creat subCategorie route                |  @mathieusantiago21   |        &#9745;        |
 | creat article route                     |  @mathieusantiago21   |        &#9745;        |
+| creat tags route                        |  @mathieusantiago21   |        &#9744;        |
+| creat lexique route                     |  @mathieusantiago21   |        &#9744;        |
+| creat manage user                       |  @mathieusantiago21   |        &#9744;        |
+| creat manage role                       |  @mathieusantiago21   |        &#9744;        |
 |                                         |                       |                       |  
 | creat errors utils                      |  @mathieusantiago21   |        &#9745;        |
 | creat README                            |  @mathieusantiago21   |        &#9744;        |
