@@ -2,14 +2,14 @@ version: "3.8"
 
 services:
   backoffice:
-    build: ./backOffice
+    build: ../backOffice
     ports:
       - 3000:3000
     volumes:
-      - ./backOffice/src:/app/src
+      - ../backOffice/src:/app/src
   servernode:
-    build: ./serverNode
+    build: ../serverNode
     ports:
       - 5000:5000
     volumes:
-      - ./serverNode:/app
+      - ../serverNode:/app
