@@ -1,15 +1,63 @@
 version: "3.8"
 
 services:
+
+  # react docker images
+  clientreact:
+    build: ../clientReact
+    ports:
+      - 4000:4000
+    volumes:
+      - ../clientReact/src:/app/src
+
+  # react docker images
   backoffice:
     build: ../backOffice
     ports:
       - 3000:3000
     volumes:
       - ../backOffice/src:/app/src
+
+
+  # node docker images
   servernode:
     build: ../serverNode
     ports:
       - 5000:5000
     volumes:
       - ../serverNode:/app
+    depends_on:
+      - mongo
+
+
+  # mongo docker images
+  mongo:
+    image: mongo:4.2.2-bionic
+    container_name: mongodb
+    restart: unless-stopped
+    ports:
+      - 27017:27017
+    volumes:
+      - ./data:/data/db
+      - ./docker-entrypoint-initdb.d/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js:ro
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+
+
+  # mongo-express docker images
+  mongo-express:
+    image: mongo-express
+    restart: unless-stopped
+    ports:
+      - 8081:8081
+    links:
+    - mongo
+    environment:
+      ME_CONFIG_OPTIONS_EDITORTHEME: rubyblue
+      ME_CONFIG_MONGODB_AUTH_DATABASE: mobilite_verte
+      ME_CONFIG_MONGODB_AUTH_USERNAME: root
+      ME_CONFIG_MONGODB_AUTH_PASSWORD: example
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: "mongodb://root:example@mongo:27017/mobilite_verte?authSource=admin"

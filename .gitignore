@@ -1,2 +1,4 @@
 /backOffice
 /serverNode
+/docker-entrypoint-initdb.d
+/data
