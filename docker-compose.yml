@@ -1,6 +1,11 @@
 version: "3.8"
 
 services:
+  # apidoc docker images
+  apidoc:
+    build: ../apidoc
+    ports:
+    - "2000:88"
 
   # react docker images
   clientreact:
@@ -18,7 +23,6 @@ services:
     volumes:
       - ../backOffice/src:/app/src
 
-
   # node docker images
   servernode:
     build: ../serverNode
@@ -28,7 +32,6 @@ services:
       - ../serverNode:/app
     depends_on:
       - mongo
-
 
   # mongo docker images
   mongo:
@@ -43,7 +46,6 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
-
 
   # mongo-express docker images
   mongo-express:
