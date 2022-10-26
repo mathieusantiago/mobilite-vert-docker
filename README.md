@@ -66,23 +66,23 @@ docker-compose up >`server node` , `back office` Or `client`
 | creat cetegorie models                  |  @mathieusantiago21   |        &#9745;        |
 | creat gallery models                    |  @mathieusantiago21   |        &#9745;        |
 | creat user models                       |  @mathieusantiago21   |        &#9745;        |
-| creat tags models                       |  @mathieusantiago21   |        &#9744;        |
-| creat lexique models                    |  @mathieusantiago21   |        &#9744;        |
-| creat manage user                       |  @mathieusantiago21   |        &#9744;        |
-| creat manage role                       |  @mathieusantiago21   |        &#9744;        |
+| creat tags models                       |  @mathieusantiago21   |        &#9745;        |
+| creat lexique models                    |  @mathieusantiago21   |        &#9745;        |
+| creat manage user                       |  @mathieusantiago21   |        &#9745;        |
+| creat manage role                       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |                   
 | creat user route                        |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie route                   |  @mathieusantiago21   |        &#9745;        |
 | creat gallery route                     |  @mathieusantiago21   |        &#9745;        |
 | creat subCategorie route                |  @mathieusantiago21   |        &#9745;        |
 | creat article route                     |  @mathieusantiago21   |        &#9745;        |
-| creat tags route                        |  @mathieusantiago21   |        &#9744;        |
-| creat lexique route                     |  @mathieusantiago21   |        &#9744;        |
-| creat manage user                       |  @mathieusantiago21   |        &#9744;        |
-| creat manage role                       |  @mathieusantiago21   |        &#9744;        |
+| creat tags route                        |  @mathieusantiago21   |        &#9745;        |
+| creat lexique route                     |  @mathieusantiago21   |        &#9745;        |
+| creat manage user                       |  @mathieusantiago21   |        &#9745;        |
+| creat manage role                       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |  
 | creat errors utils                      |  @mathieusantiago21   |        &#9745;        |
-| creat README                            |  @mathieusantiago21   |        &#9744;        |
+| creat README                            |  @mathieusantiago21   |        &#9745;        |
 
 ### List of tasks on the Client Web page.
 :warning:
@@ -90,7 +90,7 @@ docker-compose up >`server node` , `back office` Or `client`
 
 |        task                             |        assigned       |        status         |
 |:---------------------------------------:|:---------------------:|:---------------------:|
-| Start project font-end client           |  @mathieusantiago21   |        &#9744;        |
+| Start project font-end client           |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |                   
 
 ### List of tasks on the Docker container.
@@ -102,5 +102,5 @@ docker-compose up >`server node` , `back office` Or `client`
 | Create container docker serverNode       |  @mathieusantiago21   |        &#9745;        |
 | Create container docker backOffice       |  @mathieusantiago21   |        &#9745;        |
 | Create container docker client           |  @mathieusantiago21   |        &#9745;        |
-| Create script bash for auto install stack|  @mathieusantiago21   |        &#9744;        |
+| Create script bash for auto install stack|  @mathieusantiago21   |        &#9745;        |
 |                                          |                       |                       |                   
