@@ -34,15 +34,15 @@ docker-compose up >`server node` , `back office` Or `client`
 | Creat gallery when creating an article  |  @mathieusantiago21   |        &#9745;        |
 | Creat pagination for list article       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |
-| Creat cropper when creating an article  |  @mathieusantiago21   |        &#9744;        |
-| Creat update article                    |  @mathieusantiago21   |        &#9744;        |
-| Creat update data picture gallery       |  @mathieusantiago21   |        &#9744;        |
-| Creat modal prevu article               |  @mathieusantiago21   |        &#9744;        |
-| Creat tags page                         |  @mathieusantiago21   |        &#9744;        |
-| Creat lexiquege                         |  @mathieusantiago21   |        &#9744;        |
-| Creat feature for select order Category |  @mathieusantiago21   |        &#9744;        |
-| Creat Manage use                        |  @mathieusantiago21   |        &#9744;        |
-| Creat Manage role                       |  @mathieusantiago21   |        &#9744;        |
+| Creat cropper when creating an article  |  @mathieusantiago21   |        &#9745;        |
+| Creat update article                    |  @mathieusantiago21   |        &#9745;        |
+| Creat update data picture gallery       |  @mathieusantiago21   |        &#9745;        |
+| Creat modal prevu article               |  @mathieusantiago21   |        &#9745;        |
+| Creat tags page                         |  @mathieusantiago21   |        &#9745;        |
+| Creat lexiquege                         |  @mathieusantiago21   |        &#9745;        |
+| Creat feature for select order Category |  @mathieusantiago21   |        &#9745;        |
+| Creat Manage use                        |  @mathieusantiago21   |        &#9745;        |
+| Creat Manage role                       |  @mathieusantiago21   |        &#9745;        |
 
 ### List of tasks on the Server backend Web page.
 :warning:
@@ -57,10 +57,10 @@ docker-compose up >`server node` , `back office` Or `client`
 | creat gallery controller                |  @mathieusantiago21   |        &#9745;        |
 | creat subCategorie controller           |  @mathieusantiago21   |        &#9745;        |
 | creat user controller                   |  @mathieusantiago21   |        &#9745;        |
-| creat tags controller                   |  @mathieusantiago21   |        &#9744;        |
-| creat lexique controller                |  @mathieusantiago21   |        &#9744;        |
-| creat manage user                       |  @mathieusantiago21   |        &#9744;        |
-| creat manage role                       |  @mathieusantiago21   |        &#9744;        |
+| creat tags controller                   |  @mathieusantiago21   |        &#9745;        |
+| creat lexique controller                |  @mathieusantiago21   |        &#9745;        |
+| creat manage user                       |  @mathieusantiago21   |        &#9745;        |
+| creat manage role                       |  @mathieusantiago21   |        &#9745;        |
 |                                         |                       |                       |                   
 | creat article models                    |  @mathieusantiago21   |        &#9745;        |
 | creat cetegorie models                  |  @mathieusantiago21   |        &#9745;        |
